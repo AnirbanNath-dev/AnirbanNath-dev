@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anirban Nath</h1>
 
 
-<div style="text-align: right;">
   [![Discord Presence](https://lanyard.cnrad.dev/api/791330543479685131)](https://discord.com/users/791330543479685131)
 
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
