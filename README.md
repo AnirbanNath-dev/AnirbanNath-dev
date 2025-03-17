@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirban Nath</h1>
 
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1288870270664179815)](https://discord.com/users/1288870270664179815)
+  [![Discord Presence](https://api.lanyard.rest/v1/users/1288870270664179815)](https://discord.com/users/1288870270664179815)
 
 
 
